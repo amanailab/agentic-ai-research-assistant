@@ -6,3 +6,5 @@ ddgs
 python-dotenv
 pytest
 httpx
+fastapi
+uvicorn
