@@ -1,0 +1,8 @@
+
+streamlit
+langgraph
+langchain-groq
+ddgs
+python-dotenv
+pytest
+httpx
